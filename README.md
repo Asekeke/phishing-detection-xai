@@ -1,4 +1,4 @@
-# 📧 Phishing Email Detection with Explainable AI
+#  Phishing Email Detection with Explainable AI
 
 **Diploma Project — Chapter 3: Technical Implementation**  
 International Information Technology University | Major 6B06301 — Computer Security  
@@ -6,13 +6,13 @@ Authors: Kuatbai A.K., Jakipbekova A.B., Satybaldiyev A.
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 Develop a phishing email detection system based on **Explainable Artificial Intelligence (XAI)** that not only classifies emails but also provides human-understandable explanations of detected risk indicators — supporting user awareness and analyst trust.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 phishing_xai_detection/
@@ -38,7 +38,7 @@ phishing_xai_detection/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** Phishing Email Dataset (Kaggle)
 - **Size:** 82,486 emails
@@ -47,16 +47,16 @@ phishing_xai_detection/
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
-### 1️⃣ Exploratory Data Analysis (`01_EDA.ipynb`)
+### 1️ Exploratory Data Analysis (`01_EDA.ipynb`)
 **Key findings:**
 - Nearly balanced dataset — minimal class imbalance risk
 - Phishing emails contain more URLs, urgency language, and promotional keywords
 - Legitimate emails tend to be longer with more domain-specific vocabulary
 - Strong textual signals: "free", "winner", "verify", "click here", "urgent"
 
-### 2️⃣ Feature Engineering (`02_Feature_Engineering.ipynb`)
+### 2️ Feature Engineering (`02_Feature_Engineering.ipynb`)
 **33 interpretable features extracted across 3 domains:**
 
 | Domain | Count | Key Features |
@@ -70,7 +70,7 @@ phishing_xai_detection/
 - Suspicious patterns like `gov-kz.*`, `secure.*kaspi`, `enpf.*bonus`
 - Legitimate KZ domain baseline (20 official KZ domains)
 
-### 3️⃣ Modeling (`03_Modeling.ipynb`)
+### 3️ Modeling (`03_Modeling.ipynb`)
 **5 models evaluated:**
 
 | Model | Notes |
@@ -84,7 +84,7 @@ phishing_xai_detection/
 **Evaluation metrics:** Accuracy, Precision, Recall, F1-Score, ROC-AUC  
 **Validation:** 80/20 stratified train-test split + 5-fold cross-validation
 
-### 4️⃣ XAI Explanations (`04_XAI_Explanations.ipynb`)
+### 4️ XAI Explanations (`04_XAI_Explanations.ipynb`)
 **Two complementary XAI methods:**
 
 - **SHAP (SHapley Additive exPlanations)**
@@ -104,7 +104,7 @@ Produces structured text reports for each email including:
 
 ---
 
-## 🏆 Key Results
+##  Key Results
 
 - Best model achieves **F1 > 0.97** on test set
 - **Explanation coverage > 85%** — top SHAP feature is a human-recognizable indicator
@@ -114,7 +114,7 @@ Produces structured text reports for each email including:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # 1. Install dependencies
@@ -133,7 +133,7 @@ jupyter notebook 04_XAI_Explanations.ipynb
 
 ---
 
-## 🛠️ Tools & Environment
+##  Tools & Environment
 
 | Component | Tool |
 |-----------|------|
@@ -147,7 +147,7 @@ jupyter notebook 04_XAI_Explanations.ipynb
 
 ---
 
-## 📄 References
+##  References
 
 This implementation directly corresponds to:
 - **Section 2.3** — System Components and Functional Modules
@@ -159,4 +159,4 @@ This implementation directly corresponds to:
 
 ---
 
-**Status:** ✅ Complete | **Chapter:** 3 — Technical Implementation
+**Status:**  Complete | **Chapter:** 3 — Technical Implementation
