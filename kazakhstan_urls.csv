@@ -1,0 +1,136 @@
+url,label,category,description
+https://egov.kz,0,government,Official e-government portal of Kazakhstan
+https://www.akorda.kz,0,government,Official website of the President of Kazakhstan
+https://www.gov.kz,0,government,Official government portal of Kazakhstan
+https://minfin.kz,0,government,Ministry of Finance of Kazakhstan
+https://mfa.gov.kz,0,government,Ministry of Foreign Affairs of Kazakhstan
+https://www.nbrk.kz,0,government,National Bank of Kazakhstan
+https://stat.gov.kz,0,government,Bureau of National Statistics
+https://www.minjust.gov.kz,0,government,Ministry of Justice of Kazakhstan
+https://www.med.gov.kz,0,government,Ministry of Health of Kazakhstan
+https://www.edu.gov.kz,0,government,Ministry of Education of Kazakhstan
+https://adilet.zan.kz,0,government,Legal information system of Kazakhstan
+https://kaspi.kz,0,banking,Kaspi Bank official website
+https://www.halykbank.kz,0,banking,Halyk Bank official website
+https://www.bcc.kz,0,banking,Bank CenterCredit official website
+https://www.atfbank.kz,0,banking,ATF Bank official website
+https://www.jusan.kz,0,banking,Jusan Bank official website
+https://www.forte.kz,0,banking,ForteBank official website
+https://www.eurasian-bank.kz,0,banking,Eurasian Bank official website
+https://www.shinhanbank.kz,0,banking,Shinhan Bank Kazakhstan
+https://www.nurbank.kz,0,banking,NurBank official website
+https://www.enpf.kz,0,financial,Unified Accumulative Pension Fund
+https://www.kase.kz,0,financial,Kazakhstan Stock Exchange
+https://www.kcell.kz,0,telecom,Kcell mobile operator
+https://www.beeline.kz,0,telecom,Beeline Kazakhstan
+https://www.activ.kz,0,telecom,Activ mobile operator
+https://www.tele2.kz,0,telecom,Tele2 Kazakhstan
+https://kolesa.kz,0,marketplace,Car marketplace Kazakhstan
+https://krisha.kz,0,marketplace,Real estate marketplace Kazakhstan
+https://olx.kz,0,marketplace,OLX Kazakhstan classifieds
+https://satu.kz,0,marketplace,Product marketplace Kazakhstan
+https://market.yandex.kz,0,marketplace,Yandex Market Kazakhstan
+https://wildberries.kz,0,marketplace,Wildberries Kazakhstan
+https://www.nur.kz,0,news,Nur.kz news portal
+https://informburo.kz,0,news,Informburo news portal
+https://tengrinews.kz,0,news,Tengri News portal
+https://www.zakon.kz,0,news,Zakon.kz legal news
+https://kapital.kz,0,news,Kapital business news
+https://kz.kursiv.media,0,news,Kursiv media Kazakhstan
+https://www.airastana.kz,0,services,Air Astana official website
+https://www.railways.kz,0,services,Kazakhstan Railways
+https://www.kazpost.kz,0,services,Kazpost official website
+https://www.ps.kz,0,services,Kazakhtelecom
+https://home.kz,0,services,Home broadband Kazakhstan
+https://izi.kz,0,services,IZI.kz classifieds
+https://www.2gis.kz,0,services,2GIS maps Kazakhstan
+https://www.uchet.kz,0,accounting,Uchet.kz accounting portal
+https://www.1c.kz,0,accounting,1C Kazakhstan
+https://online.kaspi.kz,0,banking,Kaspi Bank online banking
+https://pay.kaspi.kz,0,banking,Kaspi Pay payment system
+http://egov-kz.com,1,phishing,Typosquat of egov.kz using dash
+http://egov-kz.net,1,phishing,Typosquat of egov.kz on .net TLD
+http://e-gov.kz.ru,1,phishing,egov.kz embedded in .ru domain
+http://egovkz-login.com,1,phishing,Fake egov login page
+http://egov.kz.verify-account.com,1,phishing,egov.kz used as subdomain of phishing domain
+http://login-egov.kz.click,1,phishing,Login page impersonating egov on .click TLD
+http://secure-egov.net,1,phishing,Fake secure egov portal
+http://egov-portal.kz.xyz,1,phishing,egov portal impersonation on .xyz
+http://egovkz.top,1,phishing,egov Kazakhstan on suspicious .top TLD
+http://gov-kz.com,1,phishing,Government Kazakhstan impersonation
+http://kz-government.com,1,phishing,Government of Kazakhstan fake
+http://akorda.kz.phish-site.com,1,phishing,Akorda subdomain phishing
+http://kaspi-bank.kz.ru,1,phishing,Kaspi bank .kz.ru fake domain
+http://kaspi-login.com,1,phishing,Fake Kaspi login page
+http://secure-kaspi.net,1,phishing,Fake Kaspi security page
+http://kaspi-kz.top,1,phishing,Kaspi Kazakhstan on .top TLD
+http://online-kaspi-kz.com,1,phishing,Kaspi online banking impersonation
+http://kaspikz-verify.com,1,phishing,Kaspi account verification scam
+http://kaspi.kz.account-verify.ru,1,phishing,Kaspi subdomain on Russian phishing domain
+http://kaspi-bonus.kz.xyz,1,phishing,Fake Kaspi bonus offer
+http://pay-kaspi.click,1,phishing,Fake Kaspi Pay on .click
+http://kaspipay-kz.com,1,phishing,Kaspi Pay impersonation
+http://halyk-bank.kz.com,1,phishing,Halyk bank .kz.com fake
+http://halykbank-login.net,1,phishing,Fake Halyk login page
+http://secure-halyk.com,1,phishing,Fake Halyk security page
+http://halyk-kz.top,1,phishing,Halyk Kazakhstan on .top TLD
+http://halykbank.kz.verify.ru,1,phishing,Halyk bank subdomain phishing
+http://enpf-bonus.com,1,phishing,Fake ENPF bonus claim
+http://enpf-kz.net,1,phishing,ENPF Kazakhstan fake domain
+http://enpf-payment.com,1,phishing,Fake ENPF payment portal
+http://mypension-kz.com,1,phishing,My pension Kazakhstan scam
+http://enpf.kz.account.ru,1,phishing,ENPF subdomain on phishing domain
+http://pension-kz-bonus.xyz,1,phishing,Pension Kazakhstan bonus scam
+http://nbrk-kz.com,1,phishing,National Bank Kazakhstan impersonation
+http://nationalbank-kz.net,1,phishing,National Bank fake domain
+http://nbrk.kz.verify.com,1,phishing,NBRK subdomain phishing
+http://kz-minfin.com,1,phishing,Ministry of Finance KZ fake
+http://minfin-kz.net,1,phishing,Minfin Kazakhstan fake
+http://kazakhstan-gov.com,1,phishing,Kazakhstan government impersonation
+http://gosuslugi-kz.com,1,phishing,Russian gov portal rebranded for KZ
+http://gosuslugi.kz.ru,1,phishing,Gosuslugi with .kz embedded
+http://gosuslugi-kazakhstan.net,1,phishing,Gosuslugi Kazakhstan fake
+http://kz-gosuslugi.com,1,phishing,KZ Gosuslugi impersonation
+http://nalog-kz.com,1,phishing,Tax service Kazakhstan fake
+http://nalog.kz.ru,1,phishing,KZ tax on .ru domain
+http://tax-kz.net,1,phishing,Tax Kazakhstan fake domain
+http://eaec-kz.com,1,phishing,Eurasian Economic Commission KZ fake
+http://153.92.5.234/kaspi/login,1,phishing,Kaspi login on bare IP address
+http://185.220.101.45/egov,1,phishing,Egov on bare IP address
+http://92.63.107.12/halyk/verify,1,phishing,Halyk verify on bare IP
+http://bit.ly/kaspi-verify-kz,1,phishing,Shortened URL for Kaspi verification
+http://tinyurl.com/egov-kz-login,1,phishing,Shortened URL for egov login
+http://ow.ly/enpf-bonus-kz,1,phishing,Shortened URL for ENPF bonus
+http://rb.gy/kz-bank-secure,1,phishing,Shortened URL for KZ bank security
+http://is.gd/halyk-kz-update,1,phishing,Shortened URL for Halyk update
+http://t.co/kz-kaspi-offer,1,phishing,Short URL for Kaspi offer
+http://goo.gl/kz-pension-claim,1,phishing,Short URL for pension claim
+http://kaspi-kz-prize.xyz,1,phishing,Kaspi prize scam on .xyz
+http://win-kaspi-kz.top,1,phishing,Win Kaspi scam on .top
+http://kz-bank-reward.click,1,phishing,KZ bank reward on .click
+http://halyk-prize-kz.gq,1,phishing,Halyk prize on .gq (free TLD)
+http://enpf-claim-kz.ml,1,phishing,ENPF claim on .ml (free TLD)
+http://egov-confirm.cf,1,phishing,Egov confirm on .cf (free TLD)
+http://kaspi-update.ga,1,phishing,Kaspi update on .ga (free TLD)
+http://kz-secure-bank.tk,1,phishing,Secure bank KZ on .tk (free TLD)
+http://verify-kz-account.pw,1,phishing,Verify KZ account on .pw
+http://kz-egov.super-login.com,1,phishing,Egov fake with super-login subdomain
+http://login.kz-bank-secure.com,1,phishing,Login subdomain bank secure
+http://account.kz-verify-now.com,1,phishing,Account verify KZ
+http://secure.kz-halyk-update.net,1,phishing,Secure Halyk update fake
+http://verify.kz-kaspi-account.com,1,phishing,Verify Kaspi account fake
+http://egov.kz.egov-support.com,1,phishing,Egov support impersonation with legit subdomain
+http://kaspi.kz.kaspi-bonus.net,1,phishing,Kaspi bonus with legit subdomain trick
+http://halykbank.kz.update-now.com,1,phishing,Halyk update with legit subdomain trick
+http://enpf.kz.pension-claim.ru,1,phishing,ENPF claim with legit subdomain on .ru
+http://kz-covid-payment.com,1,phishing,Fake COVID payment KZ (social engineering)
+http://covid-help-kz.net,1,phishing,Fake COVID help Kazakhstan
+http://kz-social-payment.com,1,phishing,Fake social payment Kazakhstan
+http://astana-expo-prize.com,1,phishing,Fake Astana Expo prize
+http://kazakhstan-lottery-2024.com,1,phishing,Fake Kazakhstan lottery
+http://kz-winning-prize.net,1,phishing,Fake KZ winning prize
+http://free-kaspi-money.com,1,phishing,Free Kaspi money scam
+http://kaspi-cashback-kz.xyz,1,phishing,Fake Kaspi cashback
+http://halyk-free-transfer.net,1,phishing,Fake Halyk free transfer
+http://enpf-extra-pension.com,1,phishing,Fake extra pension ENPF
+http://kz-bank-free-loan.top,1,phishing,Fake free loan KZ bank
